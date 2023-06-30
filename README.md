@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">Passionate Data Scientist from KSA, dedicated to uncovering insights from complex datasets. Experienced in mathematics, statistics, and computer science. Proficient in Python, R, and popular libraries. Collaborative mindset and strong communication skills. Committed to making a positive impact through data-driven decision-making.</h3>
+<h3 align="center">Data Scientist from KSA, dedicated to uncovering insights from complex datasets. Experienced in mathematics, statistics, and computer science. Proficient in Python, R, and popular libraries. Collaborative mindset and strong communication skills. Committed to making a positive impact through data-driven decision-making.</h3>
 
 - 👨‍💻 All of my projects are available at [https://fahadqahtani.com/](https://fahadqahtani.com/)
 
